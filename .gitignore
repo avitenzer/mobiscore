@@ -8,3 +8,4 @@ libraries/DBApi.js
 components/Header.js
 screens/PaymentScreen.js
 package-lock.json
+.idea
